@@ -20,8 +20,6 @@
 
 ## 代码
 
-相关的代码我放在了这个仓库里：https://github.com/CuriosityWang/bag2klg
-
 目录组织：
 
 ![image-20230313112427061](https://img2023.cnblogs.com/blog/1906082/202303/1906082-20230313163719930-334082053.png)
