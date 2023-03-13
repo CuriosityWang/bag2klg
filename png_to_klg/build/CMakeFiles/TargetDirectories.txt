@@ -1,0 +1,3 @@
+/media/xin/Learn/dataset/realsense/3_1/png_to_klg/build/CMakeFiles/pngtoklg.dir
+/media/xin/Learn/dataset/realsense/3_1/png_to_klg/build/CMakeFiles/edit_cache.dir
+/media/xin/Learn/dataset/realsense/3_1/png_to_klg/build/CMakeFiles/rebuild_cache.dir
